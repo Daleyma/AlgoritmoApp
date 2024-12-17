@@ -1,0 +1,3 @@
+Original File Path: DocPrueba/El_Principito.txt
+Encrypted File Path: Files\eC_13-20-53-12.txt
+Desplazamiento: 1

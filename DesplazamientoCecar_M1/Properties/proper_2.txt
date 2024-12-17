@@ -1,0 +1,3 @@
+Original File Path: DocPrueba/AbstractFactory.txt
+Encrypted File Path: Files\AbstractFactoryeC_dic.17:50:02.txt
+Desplazamiento: 4

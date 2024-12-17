@@ -1,0 +1,10 @@
+Lo primero que sugiere el patrón Abstract Factory 
+es que declaremos de forma explícita interfaces 
+para cada producto diferente de la familia de 
+productos (por ejemplo, silla, sofá o mesilla). 
+Después podemos hacer que todas las variantes de 
+los productos sigan esas interfaces. Por ejemplo, 
+todas las variantes de silla pueden implementar 
+la interfaz Silla, así como todas las variantes 
+de mesilla pueden implementar la interfaz Mesilla, 
+y así sucesivamente.

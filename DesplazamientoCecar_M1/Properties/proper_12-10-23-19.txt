@@ -1,0 +1,3 @@
+Original File Path: DocPrueba/FeVerdadera.txt
+Encrypted File Path: Files\eC_12-10-23-19.txt
+Desplazamiento: 2
